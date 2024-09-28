@@ -4,15 +4,15 @@
 [![Static Badge](https://img.shields.io/badge/-Nexus%20Mods-111111?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/palworld/mods/451)
 
 ## Table of Contents
-* [About](#about-↑)
-* [Installation](#installation-↑)
+* [About](#about-)
+* [Installation](#installation-)
    - [Windows](#windows)
    - [Linux (Wine/Proton)](#linux-wineproton)
-* [Features](#features-↑)
-* [Wiki](#wiki-↑)
-* [Authors](#authors-↑)
-* [Credits](#credits-↑)
-* [Afterwords](#afterwords-↑)
+* [Features](#features-)
+* [Wiki](#wiki-)
+* [Authors](#authors-)
+* [Credits](#credits-)
+* [Afterwords](#afterwords-)
 
 ## About [↑](#palguard-v11066-palworld-server-anticheat)
 
