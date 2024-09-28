@@ -2,9 +2,11 @@
 
 # /givepal_j
 
-- [x] Admin only
-- [x] Chat usage
-- [x] RCON usage
+| |Permissions|
+|-|:---------:|
+|Admin Only|X|
+|Chat|X|
+|RCON|X|
 
 ### Description
 Gives the player a Pal with the provided attributes in the json. If their party is full, it will go into their Pal storage.
