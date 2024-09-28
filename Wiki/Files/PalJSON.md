@@ -93,4 +93,4 @@ The files have to be placed in [`Pal/Binaries/Win64/palguard/pals/`](../../READM
 ```
 
 ## Presets
-* [OPnubis](PalJSON%20Presets/OPnubis.json) - Anubis with aboslute maxed out attributes.
+* [OPnubis](PalJSON%20Presets/OPnubis.json) - Anubis with absolute maxed out attributes.
