@@ -14,8 +14,7 @@
 * [Credits](#credits)
 * [Afterwords](#afterwords)
 
-## About
-<div style="text-align: right"><a href="#top">Back to top</a></div>
+## About [↑](#palguard-v11066-palworld-server-anticheat)
 
 Implements comprehensive server-side validation to prevent a wide range of known and some yet undiscovered cheats, exploits, and crashes. Before executing any player action, PalGuard checks for potential cheating behavior. Depending on the server's configuration, players attempting such actions are warned, kicked, banned, or IP banned. Currently, this feature is in beta and is available exclusively for Windows-based dedicated servers. **Any experienced Linux dev is welcome to help us out.**
 
@@ -23,8 +22,7 @@ The code is closed source and we dont have any plans to release it.
 
 <br>
 
-## Installation 
-<div style="text-align: right"><a href="#top">Back to top</a></div>
+## Installation [↑](#palguard-v11066-palworld-server-anticheat)
 
 ### Windows
 1. Download the latest release at [NexusMods.com](https://www.nexusmods.com/palworld/mods/451)
@@ -57,8 +55,7 @@ The code is closed source and we dont have any plans to release it.
 2. Install [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) on your server.
 3. Follow the Windows instructions.
 
-## Features
-<div style="text-align: right"><a href="#top">Back to top</a></div>
+## Features [↑](#palguard-v11066-palworld-server-anticheat)
 
 * Cheat & Exploit detection, prevention and punishment
 * More Admin commands (including RCON)
@@ -72,31 +69,27 @@ The code is closed source and we dont have any plans to release it.
 
 <br>
 
-## Wiki
-<div style="text-align: right"><a href="#top">Back to top</a></div>
+## Wiki [↑](#palguard-v11066-palworld-server-anticheat)
 
 All around PalGuard and its usage can be found in the [Wiki](Wiki/README.md).
 
 <br>
 
-## Authors
-<div style="text-align: right"><a href="#top">Back to top</a></div>
+## Authors [↑](#palguard-v11066-palworld-server-anticheat)
 
 - [Ultimeit](https://github.com/Ultimeit)
 - [Zvendson](https://github.com/Zvendson)
 
 <br>
 
-## Credits
-<div style="text-align: right"><a href="#top">Back to top</a></div>
+## Credits [↑](#palguard-v11066-palworld-server-anticheat)
 
 * [Pocketpair, Inc.](https://www.pocketpair.jp/palworld)
 * [Unreal Engine](https://www.unrealengine.com) - Epic Games
 
 <br>
 
-## Afterwords
-<div style="text-align: right"><a href="#top">Back to top</a></div>
+## Afterwords [↑](#palguard-v11066-palworld-server-anticheat)
 
 **私たちは、[Pocketpair, Inc.](https://www.pocketpair.jp/palworld)による素晴らしい仕事に感謝の意を表したいと思います。色鮮やかな世界や、パルとのダイナミックなインタラクション、そして創造的なデザインは、チームの献身と情熱を見事に表しています。コミュニティの一員として、私たちはPalServer向けのプラグインを開発し、セキュリティを強化し、潜在的な悪用から守ることでPalworldをサポートしています**
 
