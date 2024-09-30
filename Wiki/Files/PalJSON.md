@@ -47,9 +47,9 @@ Check this out for default values: [GitHub/iiLarsH/Chillet/csv's/PalData.csv](ht
 |`Talent_Melee`|Integer|0 - 255|
 |`Talent_Shot`|Integer|0 - 255|
 |`Talent_Defense`|Integer|0 - 255|
-|`EquipWaza`|String Array of [EPalWazaIDs](../IDs/EPalWazaIDs.md)|["", "", ""]|The active/equipped Skills of the Pal.|
-|`MasteredWaza`|String Array of [EPalWazaIDs](../IDs/EPalWazaIDs.md)|["", "", "", ""]|The learned Skills of the Pal.|
-|`PassiveSkillList`|String Array of [PassiveSkills](../IDs/PassiveSkills.md)|["", "", "", ""]|All passive Skills the Pal has.|
+|`EquipWaza`|String Array of [EPalWazaIDs](../Data%20Lists/EPalWazaIDs.md)|["", "", ""]|The active/equipped Skills of the Pal.|
+|`MasteredWaza`|String Array of [EPalWazaIDs](../Data%20Lists/EPalWazaIDs.md)|["", "", "", ""]|The learned Skills of the Pal.|
+|`PassiveSkillList`|String Array of [PassiveSkills](../Data%20Lists/PassiveSkills.md)|["", "", "", ""]|All passive Skills the Pal has.|
 
 
 ## Template
