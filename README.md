@@ -5,6 +5,7 @@
 
 ## Table of Contents
 * [About](#about-)
+* [Requirements](#requirements-)
 * [Installation](#installation-)
    - [Windows](#windows)
    - [Linux (Wine/Proton)](#linux-wineproton)
@@ -19,6 +20,12 @@
 Implements comprehensive server-side validation to prevent a wide range of known and some yet undiscovered cheats, exploits, and crashes. Before executing any player action, PalGuard checks for potential cheating behavior. Depending on the server's configuration, players attempting such actions are warned, kicked, banned, or IP banned. Currently, this feature is in beta and is available exclusively for Windows-based dedicated servers. **Any experienced Linux dev is welcome to help us out.**
 
 The code is closed source and we dont have any plans to release it.
+
+<br>
+
+## Requirements [↑](#palguard-v11066-palworld-server-anticheat)
+- [Microsoft Visual C++ Latest Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+  I'm not exactly sure how this works for Proton or Wine but related of the feedback it seemed to work out of the box.
 
 <br>
 
