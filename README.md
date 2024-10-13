@@ -3,6 +3,8 @@
 [![Discord Server](https://img.shields.io/badge/-Discord-111111?style=for-the-badge&logo=discord)](https://discord.gg/palguard)
 [![Static Badge](https://img.shields.io/badge/-Nexus%20Mods-111111?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/palworld/mods/451)
 
+**Consider supporting me on [Ko-Fi](https://ko-fi.com/zvend) if you like PalGuard.<br>It will definetly help the motivation and development!**
+
 ## Table of Contents
 * [About](#about-)
 * [Requirements](#requirements-)
