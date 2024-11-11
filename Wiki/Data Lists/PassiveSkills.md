@@ -4,8 +4,13 @@
 Feel free to contribute!
 
 Anything named 'en Text' is not a skill released in the game - many of them do not have any traits assigned
+
 Anything named 'PASSIVE_XXXXX' was not released in the game, and many appear very over powered
+
 'Fit as a Fiddle' appears to have no traits assigned anymore, this trait had a stamina buff at one point in time - not sure if it was removed by the developers or if it's a bug
+
+
+Traits in the game already;
 
 |Name|ID|Effect|
 |----|--|------|
@@ -91,13 +96,10 @@ Anything named 'PASSIVE_XXXXX' was not released in the game, and many appear ver
 
 
 
-
-
-
-
 Not Released in-game
 
-
+|Name|ID|Effect|
+|------------|------------|--------------|
 |en Text|`TestSkill1`|Health +5%|
 |en Text|`TestSkill2`|Melee +5%|
 |en Text|`TestSkill3`|Attack +5%|
