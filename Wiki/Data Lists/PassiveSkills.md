@@ -11,7 +11,7 @@ Anything named 'PASSIVE_XXXXX' was not released in the game, and many appear ver
 |----|--|------|
 
 
-Released in-game
+|Released in-game|||
 
 |Musclehead|`Noukin`|Attack +30% Work Speed -50%|
 |Artisan|`CraftSpeed_up2`|Work Speed +50%|
