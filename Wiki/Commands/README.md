@@ -24,8 +24,14 @@ Commands arguments that are wrapped by `<>` are required to perform it, argument
 |`/setadmin <steamID>`|`/setadmin 76567890987654321`|Temporarily grants/revokes admin from a player.|X|X|X|
 |`/getip <steamID>`|`/getip 76567890987654321`|Gives you a player's IP address. (Must be online)|X|X|X|
 |`/give <steamID> <ItemID> [Amount=1]`|`/give 76567890987654321 LuxuryMedicines 42`|Gives a player an item and if specified how many.|X|X|X|
+|`/giveitems <steamID> <ItemID>[:<Amount>] ...`|`/giveitems 76567890987654321 LuxuryMedicines:42 Money:666 AssaultRifle_Default5`|Gives a player more than 1 item in one command and if specified how many of each seperated by a colon.|X|X|X|
 |`/giveme <ItemID> [Amount=1]`|`/giveme Lotus_hp_02 999`|Gives you an item and if specified how many.|X|X||
+|`/delitem <steamID> <ItemID> [Amount=1]`|`/delitem 76567890987654321 LuxuryMedicines all`|Deletes an item from a player 
+ and if specified how many. Default is `1` which will delete only 1 occurence of that item. Use `all` instead of `1` to delete all occurences.|X|X|X|
+ |`/delitems <steamID> <ItemID>[:<Amount>] ...`|`/delitems 76567890987654321 LuxuryMedicines Milk:all Money:5000`|Deletes more than 1 item from a player in one command 
+ and if specified how many of each seperated by a colon. Use `all` instead of `1` to delete all occurences.|X|X|X|
 |`/give_exp <steamID> <Amount>`|`/give_exp 76567890987654321 400000`|Gives a player the specified amount of EXP.|X|X|X|
+|`/giveme_exp <Amount>`|`/giveme_exp 400000`|Gives yourself the specified amount of EXP.|X|X|X|
 |`/whitelist_add <steamID>`|`/whitelist_add 76567890987654321`|Adds a steamID to the whitelist.|X|X|X|
 |`/whitelist_remove <steamID>`|`/whitelist_remove 76567890987654321`|Removes a steamID from the whitelist.|X|X|X|
 |`/whitelist_get`|`/whitelist_get`|Gets full list of whitelisted players.|X|X|X|
@@ -45,6 +51,8 @@ Commands arguments that are wrapped by `<>` are required to perform it, argument
 |`/adminlogout`|`/adminlogout`|Logs you out of admin mode.|X|X|X|
 |`/toggleserverpvp`|`/toggleserverpvp`|Toggles the `PalWorldSettings.bIsPvP` and `PalWorldSettings.bEnablePlayerToPlayerDamage` between `True` and `False` until the next server restart.|X|X|X|
 |`/give_relic <steamID> <Amount>`|`/give_relic 76567890987654321 666`|Gives the player one or more Lifmunk Effigies.|X|X|X|
+|`/setguildleader <steamID>`|`/setguildleader 76567890987654321`|Makes target player the guild leader of the guild he currently belongs to.|X|X|X|
+|`/imcheater`|`/imcheater`|Use this to test how your server response to a cheater.|X|X|X|
 
 <br>
 
