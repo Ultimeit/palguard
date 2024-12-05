@@ -1,5 +1,7 @@
 ### [<<<](README_ZH_CN.md) 文件类型
 
+#### [English](./PalJSON.md) / 简体中文
+
 # PalJSON
 
 ### 目录
