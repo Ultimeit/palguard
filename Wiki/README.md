@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Commands](Commands/README.md)
+- [Commands](./Commands/README.md)
 - [File Types](./Files/README.md)
 - [Data Lists](./Data%20Lists/README.md)
   
