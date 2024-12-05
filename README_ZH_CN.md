@@ -1,6 +1,6 @@
 # PalGuard v1.1066 (幻兽帕鲁服务器反作弊)
 
-#### [简体中文](/README_ZH_CN.md) / [English](/README.md)
+#### [English](/README.md) / 简体中文
 
 [![Discord Server](https://img.shields.io/badge/-Discord-111111?style=for-the-badge&logo=discord)](https://discord.gg/palguard)
 [![Static Badge](https://img.shields.io/badge/-Nexus%20Mods-111111?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/palworld/mods/451)
@@ -19,7 +19,7 @@
 * [致谢](#致谢)
 * [后记](#后记)
 
-## 关于 [↑](#palguard-v11066-palworld-server-anticheat)
+## 关于 [↑](#PalGuard-v1.1066-幻兽帕鲁服务器反作弊)
 
 实现了全面的服务端验证，防止已知和一些尚未发现的作弊、漏洞和崩溃。PalGuard 在执行任何玩家操作之前会检查潜在的作弊行为。根据服务器的配置，尝试这些操作的玩家会被警告、踢出、封禁或 IP 封禁。目前，这一功能处于测试阶段，仅在基于 Windows 的服务器上可用。**任何有经验的 Linux 开发者都欢迎来帮助我们。**
 
