@@ -1,5 +1,7 @@
 ### [<<<](README.md) Data Lists
 
+#### English / [简体中文](./PassiveSkills_ZH_CN.md)
+
 # Passive Skills
 Feel free to contribute!
 
