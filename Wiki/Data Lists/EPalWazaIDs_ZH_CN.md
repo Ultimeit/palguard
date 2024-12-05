@@ -1,4 +1,6 @@
-### [<<<](README_ZH_CN.md) 数据列表
+### [<<<](./README_ZH_CN.md) 数据列表
+
+#### [English](./EPalWazaIDs.md) / 简体中文
 
 # 帕鲁技能
 欢迎贡献！（懒得翻译了）
