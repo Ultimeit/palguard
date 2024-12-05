@@ -1,5 +1,7 @@
 ### [<<<](../README_ZH_CN.md) Wiki
 
+#### [English](./README.md) / 简体中文
+
 # 数据列表
 
 数据列表是用于命令参数或文件设置的值。
