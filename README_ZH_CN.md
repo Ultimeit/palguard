@@ -27,14 +27,14 @@
 
 <br>
 
-## 需求 [↑](#palguard-v11066-palworld-server-anticheat)
+## 需求 [↑](#palguard-v11066-幻兽帕鲁服务器反作弊)
 
 - [Microsoft Visual C++ 最新版本的可再发行组件](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
   我不确定在 Proton 或 Wine 上如何使用，但根据反馈，它似乎可以开箱即用。
 
 <br>
 
-## 安装 [↑](#palguard-v11066-palworld-server-anticheat)
+## 安装 [↑](#palguard-v11066-幻兽帕鲁服务器反作弊)
 
 ### Windows
 
@@ -69,7 +69,7 @@
 2. 在服务器上安装 [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)。
 3. 按照 Windows 安装步骤操作。
 
-## 功能 [↑](#palguard-v11066-palworld-server-anticheat)
+## 功能 [↑](#palguard-v11066-幻兽帕鲁服务器反作弊)
 
 * 作弊和漏洞检测、预防与惩罚
 * 更多的管理员命令（包括 RCON）
@@ -83,27 +83,27 @@
 
 <br>
 
-## Wiki [↑](#palguard-v11066-palworld-server-anticheat)
+## Wiki [↑](#palguard-v11066-幻兽帕鲁服务器反作弊)
 
 关于 PalGuard 和它的使用，详细信息可以查看 [Wiki](Wiki/README_ZH_CN.md)。
 
 <br>
 
-## 作者 [↑](#palguard-v11066-palworld-server-anticheat)
+## 作者 [↑](#palguard-v11066-幻兽帕鲁服务器反作弊)
 
 - [Ultimeit](https://github.com/Ultimeit)
 - [Zvendson](https://github.com/Zvendson)
 
 <br>
 
-## 致谢 [↑](#palguard-v11066-palworld-server-anticheat)
+## 致谢 [↑](#palguard-v11066-幻兽帕鲁服务器反作弊)
 
 * [Pocketpair, Inc.](https://www.pocketpair.jp/palworld)
 * [Unreal Engine](https://www.unrealengine.com) - Epic Games
 
 <br>
 
-## 后记 [↑](#palguard-v11066-palworld-server-anticheat)
+## 后记 [↑](#palguard-v11066-幻兽帕鲁服务器反作弊)
 
 **私たちは、[Pocketpair, Inc.](https://www.pocketpair.jp/palworld)による素晴らしい仕事に感謝の意を表したいと思います。色鮮やかな世界や、パルとのダイナミックなインタラクション、そして創造的なデザインは、チームの献身と情熱を見事に表しています。コミュニティの一員として、私たちはPalServer向けのプラグインを開発し、セキュリティを強化し、潜在的な悪用から守ることでPalworldをサポートしています**
 
