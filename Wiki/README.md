@@ -1,6 +1,6 @@
 # PalGuard Wiki
 
-#### [English](./README.md) / [简体中文](./README_ZH_CN.md)
+#### English / [简体中文](./README_ZH_CN.md)
 
 ## Contents
 
