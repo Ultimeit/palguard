@@ -1,5 +1,7 @@
 # PalGuard Wiki
 
+#### [简体中文](./README_ZH_CN.md) / [English](./README.md)
+
 ## 目录
 
 - [命令](Commands/README_ZH_CN.md)
