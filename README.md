@@ -1,5 +1,7 @@
 # PalGuard v1.1066 (PalWorld Server AntiCheat)
 
+#### [English](/README.md) / [简体中文](/README_ZH_CN.md)
+
 [![Discord Server](https://img.shields.io/badge/-Discord-111111?style=for-the-badge&logo=discord)](https://discord.gg/palguard)
 [![Static Badge](https://img.shields.io/badge/-Nexus%20Mods-111111?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/palworld/mods/451)
 
