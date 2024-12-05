@@ -28,10 +28,8 @@ Commands arguments that are wrapped by `<>` are required to perform it, argument
 |`/give <steamID> <ItemID> [Amount=1]`|`/give 76567890987654321 LuxuryMedicines 42`|Gives a player an item and if specified how many.|X|X|X|
 |`/giveitems <steamID> <ItemID>[:<Amount>] ...`|`/giveitems 76567890987654321 LuxuryMedicines:42 Money:666 AssaultRifle_Default5`|Gives a player more than 1 item in one command and if specified how many of each seperated by a colon.|X|X|X|
 |`/giveme <ItemID> [Amount=1]`|`/giveme Lotus_hp_02 999`|Gives you an item and if specified how many.|X|X||
-|`/delitem <steamID> <ItemID> [Amount=1]`|`/delitem 76567890987654321 LuxuryMedicines all`|Deletes an item from a player 
- and if specified how many. Default is `1` which will delete only 1 occurence of that item. Use `all` instead of `1` to delete all occurences.|X|X|X|
- |`/delitems <steamID> <ItemID>[:<Amount>] ...`|`/delitems 76567890987654321 LuxuryMedicines Milk:all Money:5000`|Deletes more than 1 item from a player in one command 
- and if specified how many of each seperated by a colon. Use `all` instead of `1` to delete all occurences.|X|X|X|
+|`/delitem <steamID> <ItemID> [Amount=1]`|`/delitem 76567890987654321 LuxuryMedicines all`|Deletes an item from a player and if specified how many. Default is `1` which will delete only 1 occurence of that item. Use `all` instead of `1` to delete all occurences.|X|X|X|
+ |`/delitems <steamID> <ItemID>[:<Amount>] ...`|`/delitems 76567890987654321 LuxuryMedicines Milk:all Money:5000`|Deletes more than 1 item from a player in one command and if specified how many of each seperated by a colon. Use `all` instead of `1` to delete all occurences.|X|X|X|
 |`/give_exp <steamID> <Amount>`|`/give_exp 76567890987654321 400000`|Gives a player the specified amount of EXP.|X|X|X|
 |`/giveme_exp <Amount>`|`/giveme_exp 400000`|Gives yourself the specified amount of EXP.|X|X|X|
 |`/whitelist_add <steamID>`|`/whitelist_add 76567890987654321`|Adds a steamID to the whitelist.|X|X|X|
