@@ -1,5 +1,7 @@
 ### [<<<](README.md) Commands
 
+#### English / [简体中文](./givepal_j_ZH_CN.md)
+
 # /givepal_j
 
 | |Permissions|
