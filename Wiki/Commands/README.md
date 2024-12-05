@@ -39,6 +39,7 @@ Commands arguments that are wrapped by `<>` are required to perform it, argument
 |`/whitelist_get`|`/whitelist_get`|Gets full list of whitelisted players.|X|X|X|
 |`/givepal <steamID> <PalId> <Level>`|`/givepal 76567890987654321 FengyunDeeper 55`|Gives the player a Pal (if their party is full, it will go into their Pal storage).|X|X|X|
 |[/givepal_j](givepal_j.md)|`/givepal_j <steamID> <PalJSON>`|Gives the player a Pal with the provided attributes in the json. (if their party is full, it will go into their Pal storage). See [PalJSON](../Files/PalJSON.md#json-file-template) for a deeper understanding.|X|X|X|
+|[/deletepals](deletepals.md)|`/deletepals <steamID> <PalFilter>`|Deletes multiple pals from a player's palteam and palbox based on a filter, which can be configured through command arguments.|X|X|X|
 |`/exportpals <steamID>`|`/exportpals 76567890987654321`|Export every Pal of a player to a json file at `Pal/Binaries/Win64/palguard/pals/`. See [PalJSON](../Files/PalJSON.md#json-file-template) for a deeper understanding.|X|X|X|
 |`/jetragon`|`/jetragon`|Gives you an Admin-Jetragon Pal (it's faaas.... gone).|X|X||
 |`/catwaifu`|`/catwaifu`|Gives you an Admin-Cat-Waifu that buffs your character stats.|X|X||
