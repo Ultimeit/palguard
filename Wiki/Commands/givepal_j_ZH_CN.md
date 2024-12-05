@@ -1,5 +1,7 @@
 ### [<<<](README_ZH_CN.md) 命令
 
+#### [English](./givepal_j_ZH_CN.md) / 简体中文
+
 # /givepal_j
 
 | |权限|
