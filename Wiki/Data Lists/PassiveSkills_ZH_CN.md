@@ -1,5 +1,7 @@
 ### [<<<](README_ZH_CN.md) 数据列表
 
+#### [English](./PassiveSkills.md) / 简体中文
+
 # 被动技能
 欢迎贡献！（以下中文有部分是机翻）
 
