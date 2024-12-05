@@ -1,5 +1,7 @@
 ### [<<<](../README.md) Wiki
 
+#### English / [简体中文](./README_ZH_CN.md)
+
 # Commands
 
 ### Table of Contents
