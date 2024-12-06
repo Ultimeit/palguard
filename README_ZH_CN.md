@@ -1,4 +1,4 @@
-# PalGuard v1.1066 (幻兽帕鲁服务器反作弊)
+# PalGuard v1.1199 (幻兽帕鲁服务器反作弊)
 
 #### [English](/README.md) / 简体中文
 

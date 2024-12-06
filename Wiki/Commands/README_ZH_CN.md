@@ -29,7 +29,7 @@
 | `/giveitems <steamID> <物品ID>[:<数量>] ...` | `/giveitems 76567890987654321 LuxuryMedicines:42 Money:666 AssaultRifle_Default5` | 一次给玩家多个物品，并可以指定每个物品的数量，使用冒号分隔。 | X | X | X |
 | `/giveme <物品ID> [数量=1]` | `/giveme Lotus_hp_02 999` | 给自己一个物品，并可指定数量。 | X | X | |
 | `/delitem <steamID> <物品ID> [数量=1]` | `/delitem 76567890987654321 LuxuryMedicines all` | 从玩家身上删除物品，并可指定数量，默认删除一个物品。如果使用 `all`，将删除所有该物品。 | X | X | X |
-| `/delitems <steamID> <物品ID>[:<数量>] ...` | `/delitems 76567890987654321 LuxuryMedicines Milk:all Money:5000` | 一次删除多个物品，并可指定每个物品的数量。使用 `all` 替代 `1` 删除所有该物品。 | X | X | X |
+| `/delitems <steamID> <物品ID>[:<数量>] ...` | `/delitems 76567890987654321 LuxuryMedicines Milk:all Money:5000` | 一次删除多个物品，并可指定每个物品的数量，通过冒号分隔。使用 `all` 替代 `1` 删除所有该物品。 | X | X | X |
 | `/give_exp <steamID> <数量>` | `/give_exp 76567890987654321 400000` | 给玩家指定数量的经验值。 | X | X | X |
 | `/giveme_exp <数量>` | `/giveme_exp 400000` | 给自己指定数量的经验值。 | X | X | X |
 | `/whitelist_add <steamID>` | `/whitelist_add 76567890987654321` | 将 Steam ID 添加到白名单中。 | X | X | X |
@@ -37,6 +37,7 @@
 | `/whitelist_get` | `/whitelist_get` | 获取所有已添加到白名单中的玩家列表。 | X | X | X |
 | `/givepal <steamID> <PalId> <Level>` | `/givepal 76567890987654321 FengyunDeeper 55` | 给玩家一个帕鲁（如果玩家携带的帕鲁已满，将进入帕鲁终端）。 | X | X | X |
 | [/givepal_j](givepal_j_ZH_CN.md) | `/givepal_j <steamID> <PalJSON>` | 给玩家一个帕鲁，具有提供的 JSON 属性。（如果玩家携带的帕鲁已满，将进入帕鲁终端）。有关更多信息，请详见 [PalJSON](../Files/PalJSON_ZH_CN#json-file-template)。 | X | X | X |
+| [/deletepals](deletepals_ZH_CN.md) | `/deletepals <steamID> <PalFilter>` | 根据过滤器从玩家的帕鲁队伍和帕鲁终端中删除多个帕鲁。过滤器可以通过命令参数配置。 | X | X | X |
 | `/exportpals <steamID>` | `/exportpals 76567890987654321` | 导出玩家的所有帕鲁到 `Pal/Binaries/Win64/palguard/pals/` 文件夹。有关更多信息，请详见 [PalJSON](../Files/PalJSON_ZH_CN#json-file-template)。 | X | X | X |
 | `/jetragon` | `/jetragon` | 给你一个管理员级别的空涡龙（它超快...）。 | X | X | |
 | `/catwaifu` | `/catwaifu` | 给你一个管理员级别的暗巫猫，增加你的角色属性。 | X | X | |
