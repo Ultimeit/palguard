@@ -1,0 +1,48 @@
+name: "Feature Request"
+description: Create a new issue for a feature request.
+title: "Your title"
+labels: [
+  "feature request"
+]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe your idea"
+      description: Try to be precise as much as possible.
+      placeholder: ...
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: "Purposes"
+      description: Please explain why this feature should be implemented into PalGuard.
+    validations:
+      required: true
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: "Expected Behavior"
+      description: Describe what you expect to happen when this feature is implemented.
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: "Attachments"
+      description: If required, add images or other resources here.
+    validations:
+      required: false
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priority"
+      description: How urgent is this feature request?
+      options:
+        - Low
+        - Medium
+        - High
+        - Critical
+    validations:
+      required: true
