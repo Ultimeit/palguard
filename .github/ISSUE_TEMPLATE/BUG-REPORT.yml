@@ -1,18 +1,10 @@
-name: "🐛 Bug Report"
+name: "Bug Report"
 description: Create a new issue for a bug.
-title: "🐛 [BUG] - <title>"
+title: ""
 labels: [
   "bug"
 ]
 body:
-  - type: textarea
-    id: description
-    attributes:
-      label: "Description"
-      description: Please enter an explicit description of your issue
-      placeholder: Short and explicit description of your incident...
-    validations:
-      required: true
   - type: input
     id: version
     attributes:
@@ -21,15 +13,23 @@ body:
     validations:
       required: true
   - type: textarea
+    id: description
+    attributes:
+      label: "What happened?"
+      description: Also tell us, what did you expect to happen?
+      placeholder: Short and explicit description of your incident...
+    validations:
+      required: true
+  - type: textarea
     id: reprod
     attributes:
       label: "Reproduction steps"
-      description: Please enter an explicit description of your issue
+      description: Please enter an explicit description of your bug
       value: |
-        1. Go to '...'
-        2. Click on '....'
-        3. Scroll down to '....'
-        4. See error
+        1. ...
+        2. ....
+        3. .....
+        4. See bug "..."
       render: bash
     validations:
       required: true
@@ -39,7 +39,7 @@ body:
       label: "Screenshots"
       description: If applicable, add screenshots to help explain your problem.
       value: |
-        ![DESCRIPTION](LINK.png)
+        ![DESCRIPTION](<https://...>.png)
       render: bash
     validations:
       required: false
