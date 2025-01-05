@@ -10,6 +10,7 @@ body:
     attributes:
       label: "PalGuard Version"
       description: What version of PalGuard are you running?
+      placeholder: v1.1215
     validations:
       required: true
   - type: textarea
@@ -27,9 +28,8 @@ body:
       description: Please enter an explicit description of your bug
       value: |
         1. ...
-        2. ....
-        3. .....
-        4. See bug "..."
+        2. ...
+        3. See bug "..."
       render: bash
     validations:
       required: true
