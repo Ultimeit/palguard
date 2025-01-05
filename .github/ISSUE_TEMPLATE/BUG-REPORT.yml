@@ -1,6 +1,6 @@
 name: "Bug Report"
 description: Create a new issue for a bug.
-title: "[BUG] "
+title: "Your title"
 labels: [
   "bug"
 ]
@@ -39,7 +39,7 @@ body:
       label: "Screenshots"
       description: If applicable, add screenshots to help explain your problem.
       value: |
-        ![DESCRIPTION](<https://...>.png)
+        ![DESCRIPTION](https://your/url/to/the/screenshot.png)
       render: bash
     validations:
       required: false
