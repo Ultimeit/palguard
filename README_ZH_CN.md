@@ -2,7 +2,7 @@
 
 #### [English](/README.md) / 简体中文
 
-[![Discord Server](https://img.shields.io/badge/-Discord-111111?style=for-the-badge&logo=discord)](https://discord.gg/palguard)
+[![Discord Server](https://img.shields.io/badge/-Discord-111111?style=for-the-badge&logo=discord)](https://discord.com/invite/bdTxPbwSEW)
 [![Static Badge](https://img.shields.io/badge/-Nexus%20Mods-111111?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/palworld/mods/451)
 
 **如果你喜欢 PalGuard，考虑支持我 [Ko-Fi](https://ko-fi.com/zvend)，这将大大帮助开发和提高动力！**
