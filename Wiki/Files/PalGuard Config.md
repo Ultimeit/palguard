@@ -21,6 +21,7 @@ Explanation of every config entry:
 |`chatBypassWait`|true, false|Allows you to get rid of 1 minute cooldown between sending chat messages.|
 |`disableButchering`|true, false|It ain't perfect, but better than nothing if you want to fix dupe exploit with infinite butchering.|
 |`disableIllegalItemProtection`|true, false|Disables protection against Debug/Robbery spheres (some mods add them as craftable items to the game).|
+|`disablePalRenaming`|true, false|Disables Pal renamings.|
 |`disableRenaming`|true, false|Disables renamings.|
 |`doActionUponIllegalPalStats`|true, false|Allow automatic actions when a player tries to use an exploit to enhance pal stats more than allowed.|
 |`isChineseCmd`|true, false|Set to true if the console should support Chinese encoding. Can be ignored on newer Windows versions.|
