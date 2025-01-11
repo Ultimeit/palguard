@@ -26,8 +26,10 @@ Explanation of every config entry:
 |`isChineseCmd`|true, false|Set to true if the console should support Chinese encoding. Can be ignored on newer Windows versions.|
 |`logChat`|true, false|Log all chat messages.|
 |`logNetworking`|true, false|Log almost everything that players are sending to server.|
+|`logPlayerIP`|true, false|Additionally logs the player IP whenever a log contains a player.|
+|`logPlayerIP`|true, false|Additionally logs the player UniqueID whenever a log contains a player.|
 |`logRCON`|true, false|Logs RCON commands.|
-|`palStatsMaxRank`|any positive number including 0.|0 deactivates pal enhancement completely. Any number above 0 sets a new limit. Default max rank is 10. So you can put 5 and it is limited to 5. -1 detects the server's max pal enhancement option, so default will be 10 but if a mod changes this number -1 will detect the mod's new limit.|
+|`palStatsMaxRank`|any positive number including 0.|0 deactivates pal enhancement completely. Any number above 0 sets a new limit. Default max rank is 20. So you can put 5 and it is limited to 5. -1 detects the server's max pal enhancement option, so default will be 10 but if a mod changes this number -1 will detect the mod's new limit.|
 |`pveMaxToPalBanThreshold`|any positive number.|Attempting to deal damage to Pal higher than this number will flag player as cheater.|
 |`pvpMaxToPalDamage`|any positive number.|Max damage that can be done to player owned pals **IF** pvp is enabled (bEnablePlayerToPlayerDamage). If damage exceeds this number, it will be floored down to it. Note: specifically this option is for damage before any damage mitigation.|
 |`pvpMaxToBuildingDamage`|any positive number.|Same as `pvpMaxToPalDamage `, but against buildings. Note: specifically this option is for damage before any damage mitigation.|
