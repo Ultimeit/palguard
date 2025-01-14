@@ -5,12 +5,18 @@ labels: [
   "bug"
 ]
 body:
-  - type: input
+  - type: dropdown
     id: version
     attributes:
       label: "PalGuard Version"
       description: What version of PalGuard are you running?
-      placeholder: v1.1215
+      multiple: true
+      options:
+        - v1.1272
+        - v1.1215
+        - v1.1199
+        - v1.1066
+        - v1.963
     validations:
       required: true
   - type: textarea
