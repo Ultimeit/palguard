@@ -14,7 +14,7 @@
    - [Windows](#windows)
    - [Linux (Wine/Proton)](#linux-wineproton)
 * [Features](#features-)
-* [Wiki](#wiki-)
+* [Wiki](Wiki/README.md)
 * [Authors](#authors-)
 * [Credits](#credits-)
 * [Afterwords](#afterwords-)

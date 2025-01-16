@@ -16,7 +16,7 @@
    - [Windows](#windows)
    - [Linux (Wine/Proton)](#linux-wineproton)
 * [功能](#功能-)
-* [Wiki](#wiki-)
+* [Wiki](Wiki/README_ZH_CN.md)
 * [作者](#作者-)
 * [致谢](#致谢-)
 * [后记](#后记-)
