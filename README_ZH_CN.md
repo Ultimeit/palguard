@@ -1,11 +1,13 @@
-# PalGuard v1.1272 (幻兽帕鲁服务器反作弊)
+# PalGuard v1.1273 (幻兽帕鲁服务器反作弊)
 
 #### [English](/README.md) / 简体中文
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T014OZZB)
+
 
 [![Discord Server](https://img.shields.io/badge/-Discord-111111?style=for-the-badge&logo=discord)](https://discord.com/invite/bdTxPbwSEW)
 [![Static Badge](https://img.shields.io/badge/-Nexus%20Mods-111111?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/palworld/mods/451)
 
-**如果你喜欢 PalGuard，考虑支持我 [Ko-Fi](https://ko-fi.com/zvend)，这将大大帮助开发和提高动力！**
 
 ## 目录
 * [关于](#关于-)

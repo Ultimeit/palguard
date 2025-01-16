@@ -1,11 +1,11 @@
-# PalGuard v1.1272 (PalWorld Server AntiCheat)
+# PalGuard v1.1273 (PalWorld Server AntiCheat)
 
 #### English / [简体中文](/README_ZH_CN.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T014OZZB)
+
 [![Discord Server](https://img.shields.io/badge/-Discord-111111?style=for-the-badge&logo=discord)](https://discord.com/invite/bdTxPbwSEW)
 [![Static Badge](https://img.shields.io/badge/-Nexus%20Mods-111111?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/palworld/mods/451)
-
-**Consider supporting me on [Ko-Fi](https://ko-fi.com/zvend) if you like PalGuard.<br>It will definetly help the motivation and development!**
 
 ## Table of Contents
 * [About](#about-)
