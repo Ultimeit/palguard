@@ -1,4 +1,4 @@
-# PalGuard v1.1286 (PalWorld Server AntiCheat)
+# PalGuard v1.1336 (PalWorld Server AntiCheat)
 
 #### English / [简体中文](/README_ZH_CN.md)
 
