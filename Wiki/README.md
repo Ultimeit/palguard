@@ -43,6 +43,6 @@ Please use Windows Terminal (or any alternative with proper unicode support) ins
 ---
 
 ### How can I report crashes?
-Send your `\Pal\Saved\Crashes\*random numbers*\CrashContext.runtime-xml` file + palguard version used + log from `Pal\Binaries\Win64\logs` folder in bug-reports channel on [discord](https://discord.com/invite/jcvKpkUmXS).
+Send your `\Pal\Saved\Crashes\*random numbers*\CrashContext.runtime-xml` file + palguard version used + log from `Pal\Binaries\Win64\logs` folder in [Bug Report Issues](https://github.com/Ultimeit/palguard/issues/new?template=BUG-REPORT.yml).
 
 ---
