@@ -43,6 +43,6 @@
 ---
 
 ### 如何报告崩溃？
-将`Pal\Saved\Crashes\*随机数字*\CrashContext.runtime-xml`文件 + 使用的PalGuard版本 + `Pal\Binaries\Win64\logs`文件夹中的日志发送至[discord](https://discord.com/invite/jcvKpkUmXS)的bug-reports频道。
+Send your `\Pal\Saved\Crashes\*random numbers*\CrashContext.runtime-xml` file + palguard version used + log from `Pal\Binaries\Win64\logs` folder in [Bug Report Issues](https://github.com/Ultimeit/palguard/issues/new?template=BUG-REPORT.yml).
 
 ---
