@@ -135,7 +135,7 @@ Updated for game version `v0.4.14`
 |Unknown Pal (ElecLizard)|`ElecLizard`|
 |Grizzbolt (Boss)|`BOSS_ElecPanda`|
 |Grizzbolt|`ElecPanda`|
-|Zoe & Grizzbolt (Boss)|`GYM_ElecPanda`|
+|Grizzbolt (Gym)|`GYM_ElecPanda`|
 |Grizzbolt (Gym)|`GYM_ElecPanda_2`|
 |Unknown Pal (ElecPomeranian) (Boss)|`BOSS_ElecPomeranian`|
 |Unknown Pal (ElecPomeranian)|`ElecPomeranian`|
