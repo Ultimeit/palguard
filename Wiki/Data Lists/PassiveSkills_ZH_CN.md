@@ -88,7 +88,7 @@
 |胆小|`PAL_ALLAttack_down1`|-1|攻击-10%|
 |贪吃|`PAL_FullStomach_Up_1`|-1|增加饱腹度下降速度+10%|
 |情绪不稳|`PAL_Sanity_Up_1`|-1|增加SAN值下降速度+10%|
-|手下留情|`NonKilling`|和平主义者。 使攻击目标的生命值不会小于1。|
+|手下留情|`NonKilling`|-1|和平主义者。 使攻击目标的生命值不会小于1。|
 |慢性子|`CoolTimeReduction_Down_1`|-1|主动技能的冷却时间延长-15%|
 |家里蹲|`Stamina_Down_1`|-1|最大耐力-25% ※此效果仅对可骑乘的帕鲁有效。|
 |寒酸|`SalePrice_Down_1`|-1|交易价格恶化-10%|
