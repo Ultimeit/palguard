@@ -1,5 +1,7 @@
 ### [<<<](README.md) Data Lists
 
+#### English / [简体中文](./Pals_ZH_CN.md)
+
 # Pals
 A list of pals in Palworld, including their developer names for spawning purposes.
 
