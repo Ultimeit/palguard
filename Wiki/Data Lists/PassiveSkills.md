@@ -94,6 +94,7 @@ Traits in the game already;
 |Coward|`PAL_ALLAttack_down1`|-1|Attack -10.0%|
 |Glutton|`PAL_FullStomach_Up_1`|-1|Hunger 10.0%|
 |Unstable|`PAL_Sanity_Up_1`|-1|Sanity 10.0%|
+|Mercy Hit|`NonKilling`|-1|Pacifist. Will not reduce the target's Health below 1.|
 |Easygoing|`CoolTimeReduction_Down_1`|-1|Active skill cooldown extension -15.0%|
 |Sickly|`Stamina_Down_1`|-1|Max Stamina -25.0% *This effect is only valid for rideable pals.|
 |Shabby|`SalePrice_Down_1`|-1|Decrease the value of items when sold by -10.0%|
