@@ -1,3 +1,6 @@
+![PalDefender Logo](/.github/images/LOGO_WIKI.jpg)
+*LOGO made by [Jia](<https://www.fiverr.com/javeriahjaved/design-a-unique-sports-mascot-esports-and-gaming-logo>)* !
+
 # PalDefender Wiki
 
 #### [English](./README.md) / 简体中文
