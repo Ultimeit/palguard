@@ -1,4 +1,6 @@
 # PalGuard v1.1336 (PalWorld Server AntiCheat)
+![PalDefender Logo](/.github/images/LOGO.jpg)
+
 
 #### English / [简体中文](/README_ZH_CN.md)
 

@@ -1,4 +1,5 @@
 # PalGuard v1.1336 (幻兽帕鲁服务器反作弊)
+![PalDefender Logo](/.github/images/LOGO.jpg)
 
 #### [English](/README.md) / 简体中文
 
