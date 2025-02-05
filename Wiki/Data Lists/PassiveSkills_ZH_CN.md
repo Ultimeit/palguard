@@ -1,3 +1,5 @@
+### [<<<](README_ZH_CN.md) 数据列表
+
 #### [English](./PassiveSkills.md) / 简体中文
 
 # 被动技能
