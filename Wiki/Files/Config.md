@@ -1,8 +1,8 @@
 ### [<<<](README.md) File Types
 
-#### English / [简体中文](./PalGuard%20Config_ZH_CN.md)
+#### English / [简体中文](./Config_ZH_CN.md)
 
-# PalGuard.json
+# Config.json
 
 Explanation of every config entry:
 |config name|values|description|

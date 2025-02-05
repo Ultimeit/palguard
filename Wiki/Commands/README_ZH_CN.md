@@ -13,7 +13,7 @@
 ## 命令表
 | 命令 | 例子 | 描述 | 仅管理员 | 聊天 | RCON |
 |------|------|------|----------|------|------|
-| `/reloadcfg` | `/reloadcfg` | 重新加载 PalGuard 配置文件。 | X | X | X |
+| `/reloadcfg` | `/reloadcfg` | 重新加载 PalDefender 配置文件。 | X | X | X |
 | `/kick <玩家名称>` | `/kick Cheater007` | 根据玩家名称将其踢出服务器。 | X | X | X |
 | `/kickid <UserID>` | `/kickid 76567890987654321` | 根据玩家的 Steam ID 将其踢出服务器。 | X | X | X |
 | `/ban <玩家名称>` | `/ban Cheater007` | 根据玩家名称将其加入服务器黑名单。 | X | X | X |
@@ -41,7 +41,7 @@
 | [/givepal_j](givepal_j_ZH_CN.md) | `/givepal_j <UserID> <PalJSON>` | 给玩家一个帕鲁，具有提供的 JSON 属性。（如果玩家携带的帕鲁已满，将进入帕鲁终端）。All attributes are randomized if not provided by the json file. 有关更多信息，请详见 [PalJSON](../Files/PalJSON_ZH_CN#json-file-template)。 | X | X | X |
 | `/givemepal_j <PalJSON>` | `/givemepal_j OPnubis` | Gives yourself a Pal with the provided attributes in the json. (if your party is full, it will go into your Pal storage). All attributes are randomized if not provided by the json file. See [PalJSON](../Files/PalJSON.md#json-file-template) for a deeper understanding. | X | X | |
 | [/deletepals](deletepals_ZH_CN.md) | `/deletepals <UserID> <PalFilter>` | 根据过滤器从玩家的帕鲁队伍和帕鲁终端中删除多个帕鲁。过滤器可以通过命令参数配置。 | X | X | X |
-| `/exportpals <UserID>` | `/exportpals 76567890987654321` | 导出玩家的所有帕鲁到 `Pal/Binaries/Win64/palguard/pals/` 文件夹。有关更多信息，请详见 [PalJSON](../Files/PalJSON_ZH_CN#json-file-template)。 | X | X | X |
+| `/exportpals <UserID>` | `/exportpals 76567890987654321` | 导出玩家的所有帕鲁到 `Pal/Binaries/Win64/PalDefender/pals/` 文件夹。有关更多信息，请详见 [PalJSON](../Files/PalJSON_ZH_CN#json-file-template)。 | X | X | X |
 | `/jetragon` | `/jetragon` | 给你一个管理员级别的空涡龙（它超快...）。 | X | X | |
 | `/catwaifu` | `/catwaifu` | 给你一个管理员级别的暗巫猫，增加你的角色属性。 | X | X | |
 | `/giveegg <UserID> <EggID>` | `/giveegg 76567890987654321 PalEgg_Electricity_03` | 给玩家一个蛋，其中包含一个完全随机的帕鲁。蛋的类型只影响孵化时间，而不会影响其中的帕鲁。 | X | X | X |

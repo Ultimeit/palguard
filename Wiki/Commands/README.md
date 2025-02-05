@@ -13,7 +13,7 @@ Commands arguments that are wrapped by `<>` are required to perform it, argument
 ## Command Table
 | Command | Usage | Description | Admin Only | Chat | RCON |
 |---------|-------|-------------|------------|------|------|
-| `/reloadcfg` | `/reloadcfg` | Reloads the palguard config file. | X | X | X |
+| `/reloadcfg` | `/reloadcfg` | Reloads the PalDefender config file. | X | X | X |
 | `/kick <PlayerName>` | `/kick Cheater007` | Kicks a player by name from the server. | X | X | X |
 | `/kickid <UserID>` | `/kickid 76567890987654321` | Kicks a player by UserID from the server. | X | X | X |
 | `/ban <PlayerName>` | `/ban Cheater007` | Bans a player by name from the server. | X | X | X |
@@ -41,7 +41,7 @@ Commands arguments that are wrapped by `<>` are required to perform it, argument
 | [/givepal_j](givepal_j.md) | `/givepal_j <UserID> <PalJSON>` | Gives the player a Pal with the provided attributes in the json. (if their party is full, it will go into their Pal storage). All attributes are randomized if not provided by the json file. See [PalJSON](../Files/PalJSON.md#json-file-template) for a deeper understanding. | X | X | X |
 | `/givemepal_j <PalJSON>` | `/givemepal_j OPnubis` | Gives yourself a Pal with the provided attributes in the json. (if your party is full, it will go into your Pal storage). All attributes are randomized if not provided by the json file. See [PalJSON](../Files/PalJSON.md#json-file-template) for a deeper understanding. | X | X | |
 | [/deletepals](deletepals.md) | `/deletepals <UserID> <PalFilter>` | Deletes multiple pals from a player's palteam and palbox based on a filter, which can be configured through command arguments. | X | X | X |
-| `/exportpals <UserID>` | `/exportpals 76567890987654321` | Export every Pal of a player to a json file at `Pal/Binaries/Win64/palguard/pals/`. See [PalJSON](../Files/PalJSON.md#json-file-template) for a deeper understanding. | X | X | X |
+| `/exportpals <UserID>` | `/exportpals 76567890987654321` | Export every Pal of a player to a json file at `Pal/Binaries/Win64/PalDefender/pals/`. See [PalJSON](../Files/PalJSON.md#json-file-template) for a deeper understanding. | X | X | X |
 | `/jetragon` | `/jetragon` | Gives you an Admin-Jetragon Pal (it's faaas.... gone). | X | X | |
 | `/catwaifu` | `/catwaifu` | Gives you an Admin-Cat-Waifu that buffs your character stats. | X | X | |
 | `/giveegg <UserID> <EggID>` | `/giveegg 76567890987654321 PalEgg_Electricity_03` | Gives the player an egg **with a completely random Pal** inside. Egg type only affects the hatch time, but not the Pal inside. | X | X | X |

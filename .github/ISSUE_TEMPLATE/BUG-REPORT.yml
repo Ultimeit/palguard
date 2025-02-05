@@ -8,8 +8,8 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: "PalGuard Version"
-      description: What version of PalGuard are you running?
+      label: "PalDefender Version"
+      description: What version of PalDefender are you running?
       multiple: true
       options:
         - v1.1273

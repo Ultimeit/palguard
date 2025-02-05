@@ -1,8 +1,8 @@
 ### [<<<](README_ZH_CN.md) 文件类型
 
-#### [English](./PalGuard%20Config.md) / 简体中文
+#### [English](./Config.md) / 简体中文
 
-# PalGuard.json
+# Config.json
 
 以下是每个配置项的的说明:
 | 配置项 | 值 | 说明 |
