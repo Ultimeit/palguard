@@ -1,4 +1,5 @@
 ![PalDefender Logo](/.github/images/LOGO.jpg)
+*LOGO made by [Jia](<https://www.fiverr.com/javeriahjaved/design-a-unique-sports-mascot-esports-and-gaming-logo>)* !
 
 # PalDefender (PalWorld Server AntiCheat)
 **Version:** 1.1336
